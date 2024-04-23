@@ -1,0 +1,5 @@
+["cam/image_array", "user/angle", "user/throttle", "user/mode", "imu/acl_x", "imu/acl_y", "imu/acl_z", "imu/gyr_x", "imu/gyr_y", "imu/gyr_z"]
+["image_array", "float", "float", "str", "float", "float", "float", "float", "float", "float"]
+{}
+{"created_at": 1713851847.0504632}
+{"paths": ["catalog_0.catalog", "catalog_1.catalog"], "current_index": 1964, "max_len": 1000, "deleted_indexes": []}
